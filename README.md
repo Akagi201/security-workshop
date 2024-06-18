@@ -6,6 +6,10 @@ codes and notes while learning security
 
 * <https://portswigger.net/web-security/learning-paths>
 
+## Nice Books
+
+* <https://github.com/firmianay/CTF-All-In-One>
+
 ## Red Team Tools
 
 * <https://github.com/joaoviictorti/RustRedOps>
