@@ -5,10 +5,15 @@ codes and notes while learning security
 ## Web Security
 
 * <https://portswigger.net/web-security/learning-paths>
+* <https://peneterrer.com/> scan web security with chatgpt
 
 ## Nice Books
 
 * <https://github.com/firmianay/CTF-All-In-One>
+
+## Security Guard
+
+* <https://www.cyberscarecrow.com/> - look scary to viruses and malware.
 
 ## Red Team Tools
 
@@ -17,5 +22,11 @@ codes and notes while learning security
 * <https://github.com/rikonaka/pistol-rs> - Rust security toolbox library
 * <https://github.com/VirusTotal/yara-x> - a pattern matching tool designed with malware researchers in mind
 * <https://github.com/Z4nzu/hackingtool>
+* <https://github.com/MatrixTM/MHDDoS>
+* <https://github.com/greenbone/openvas-scanner>
+
+## Crypto Tools
+
+* <https://gchq.github.io/CyberChef/>
 
 ## Blockchain Security
