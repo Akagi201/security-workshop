@@ -10,6 +10,7 @@ codes and notes while learning security
 ## Nice Books
 
 * <https://github.com/firmianay/CTF-All-In-One>
+* <https://0xinfection.github.io/reversing/>
 
 ## Security Guard
 
@@ -24,6 +25,7 @@ codes and notes while learning security
 * <https://github.com/Z4nzu/hackingtool>
 * <https://github.com/MatrixTM/MHDDoS>
 * <https://github.com/greenbone/openvas-scanner>
+* <https://github.com/J-Schoepplenberg/sukyana> - rust port scanner and packet flooder
 
 ## Crypto Tools
 
