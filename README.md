@@ -31,4 +31,8 @@ codes and notes while learning security
 
 * <https://gchq.github.io/CyberChef/>
 
+## Web Tools
+
+* <https://www.redirectchecker.org/> - redirect checker
+
 ## Blockchain Security
