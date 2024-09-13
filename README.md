@@ -11,6 +11,7 @@ codes and notes while learning security
 
 * <https://github.com/firmianay/CTF-All-In-One>
 * <https://0xinfection.github.io/reversing/>
+* <https://www.slowmist.com/redhandbook/>
 
 ## Security Guard
 
