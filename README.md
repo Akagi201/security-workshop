@@ -37,3 +37,5 @@ codes and notes while learning security
 * <https://www.redirectchecker.org/> - redirect checker
 
 ## Blockchain Security
+
+* <https://github.com/zellic/masamune> - contract security search
