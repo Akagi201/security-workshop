@@ -27,6 +27,7 @@ codes and notes while learning security
 * <https://github.com/MatrixTM/MHDDoS>
 * <https://github.com/greenbone/openvas-scanner>
 * <https://github.com/J-Schoepplenberg/sukyana> - rust port scanner and packet flooder
+* <https://github.com/0x4f53/secretsnitch> - secret scanner
 
 ## Crypto Tools
 
