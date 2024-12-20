@@ -28,6 +28,9 @@ codes and notes while learning security
 * <https://github.com/greenbone/openvas-scanner>
 * <https://github.com/J-Schoepplenberg/sukyana> - rust port scanner and packet flooder
 * <https://github.com/0x4f53/secretsnitch> - secret scanner
+* <https://00xsev.github.io/solidityBugsByVersion/> - Solidity Compiler Bugs by version
+* <https://theredguild.org/>
+* <https://github.com/theredguild/DevSecOps-toolkit> - Secure tools scanner
 
 ## Crypto Tools
 
@@ -40,3 +43,7 @@ codes and notes while learning security
 ## Blockchain Security
 
 * <https://github.com/zellic/masamune> - contract security search
+
+## CTF
+
+* <https://ctf.buidlguidl.com/>
