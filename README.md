@@ -12,6 +12,7 @@ codes and notes while learning security
 * <https://github.com/firmianay/CTF-All-In-One>
 * <https://0xinfection.github.io/reversing/>
 * <https://www.slowmist.com/redhandbook/>
+* <https://zokyo-auditing-tutorials.gitbook.io/zokyo-tutorials> - audit tutorial
 
 ## Security Guard
 
