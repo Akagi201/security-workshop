@@ -37,9 +37,19 @@ codes and notes while learning security
 
 * <https://gchq.github.io/CyberChef/>
 
+## Github secrets
+
+* <https://github.com/boringtools/git-alerts>
+
+## API reverse
+
+* <https://apiparrot.com/>
+* <https://github.com/alufers/mitmproxy2swagger>
+
 ## Web Tools
 
 * <https://www.redirectchecker.org/> - redirect checker
+* <https://github.com/musana/CF-Hero> - a reconnaissance tool that uses multiple data sources to discover the origin IP
 
 ## Blockchain Security
 
