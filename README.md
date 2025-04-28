@@ -32,6 +32,7 @@ codes and notes while learning security
 * <https://00xsev.github.io/solidityBugsByVersion/> - Solidity Compiler Bugs by version
 * <https://theredguild.org/>
 * <https://github.com/theredguild/DevSecOps-toolkit> - Secure tools scanner
+* <https://github.com/aquasecurity/trivy> - all in one security scanner
 
 ## Crypto Tools
 
@@ -58,3 +59,7 @@ codes and notes while learning security
 ## CTF
 
 * <https://ctf.buidlguidl.com/>
+
+## Hacker events
+
+* <https://github.com/tayvano/lazarus-bluenoroff-research>
