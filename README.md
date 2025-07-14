@@ -33,6 +33,7 @@ codes and notes while learning security
 * <https://theredguild.org/>
 * <https://github.com/theredguild/DevSecOps-toolkit> - Secure tools scanner
 * <https://github.com/aquasecurity/trivy> - all in one security scanner
+* <https://rustscan.com/>
 
 ## Crypto Tools
 
@@ -55,6 +56,10 @@ codes and notes while learning security
 ## Blockchain Security
 
 * <https://github.com/zellic/masamune> - contract security search
+
+## Crypto Security
+
+* <https://gotchas.salusa.dev/>
 
 ## CTF
 
