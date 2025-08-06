@@ -52,10 +52,15 @@ codes and notes while learning security
 
 * <https://www.redirectchecker.org/> - redirect checker
 * <https://github.com/musana/CF-Hero> - a reconnaissance tool that uses multiple data sources to discover the origin IP
+* <https://bugmenot.com/> - share login
 
 ## Blockchain Security
 
 * <https://github.com/zellic/masamune> - contract security search
+
+## Solana Security
+
+* <https://github.com/Rektoff/Security-Roadmap-for-Solana-applications>
 
 ## Crypto Security
 
