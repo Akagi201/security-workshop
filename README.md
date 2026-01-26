@@ -53,6 +53,7 @@ codes and notes while learning security
 * <https://www.redirectchecker.org/> - redirect checker
 * <https://github.com/musana/CF-Hero> - a reconnaissance tool that uses multiple data sources to discover the origin IP
 * <https://bugmenot.com/> - share login
+* <https://hackerai.co/> - ai pentest assistant 
 
 ## Blockchain Security
 
