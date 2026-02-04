@@ -74,3 +74,7 @@ codes and notes while learning security
 ## Hacker events
 
 * <https://github.com/tayvano/lazarus-bluenoroff-research>
+
+## AI Security
+
+* <https://depthfirst.com/>
