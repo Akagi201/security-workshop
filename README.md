@@ -34,6 +34,7 @@ codes and notes while learning security
 * <https://github.com/theredguild/DevSecOps-toolkit> - Secure tools scanner
 * <https://github.com/aquasecurity/trivy> - all in one security scanner
 * <https://rustscan.com/>
+* <https://github.com/KeygraphHQ/shannon> - AI hacker
 
 ## Crypto Tools
 
